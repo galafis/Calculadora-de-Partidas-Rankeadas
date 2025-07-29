@@ -63,3 +63,23 @@ Criar uma função que:
 
 Feito com dedicação por um estudante de Ciência de Dados apaixonado por programação e jogos! 🚀
 
+
+
+## 📋 Descrição
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 📦 Instalação
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 💻 Uso
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 📄 Licença
+
+Descreva aqui o conteúdo desta seção.

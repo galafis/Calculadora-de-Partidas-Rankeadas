@@ -1,0 +1,13 @@
+{
+  "name": "calculadora-de-partidas-rankeadas",
+  "version": "1.0.0",
+  "description": "Projeto Calculadora-de-Partidas-Rankeadas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "galafis",
+  "license": "MIT"
+}
