@@ -2,6 +2,8 @@ _**Read this in other languages:**_ [_**Português**_](README.md), [_**English**
 
 # Calculadora de Partidas Rankeadas
 
+![Imagem Hero do Projeto](hero_image.png)
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/galafis/Calculadora-de-Partidas-Rankeadas?style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/galafis/Calculadora-de-Partidas-Rankeadas?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/galafis/Calculadora-de-Partidas-Rankeadas?style=for-the-badge)
