@@ -75,3 +75,13 @@ button:hover {
   border: 1px solid #f5c6cb;
 }
 
+
+
+.hero-image {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+

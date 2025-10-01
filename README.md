@@ -39,3 +39,39 @@ A tabela abaixo detalha os níveis de rank baseados no número de vitórias:
 | 91 a 100      | Lendário    |
 | Mais de 100   | Imortal     |
 
+
+
+## Autor
+
+Este projeto foi desenvolvido por Gabriel Demetrios Lafis.
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+
+
+### Instalação
+
+Para executar este projeto localmente, siga os passos abaixo:
+
+1.  Clone o repositório:
+    ```bash
+    git clone https://github.com/galafis/Calculadora-de-Partidas-Rankeadas.git
+    ```
+2.  Navegue até o diretório do projeto:
+    ```bash
+    cd Calculadora-de-Partidas-Rankeadas
+    ```
+3.  Abra o arquivo `index.html` em seu navegador preferido.
+
+### Testes
+
+Para executar os testes automatizados do projeto, utilize o seguinte comando:
+
+```bash
+npm test
+```
+
+Certifique-se de ter o Node.js e o npm instalados em sua máquina.
+
