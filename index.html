@@ -1,26 +1,42 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Calculadora de Partidas Rankeadas</title>
-  <link rel="stylesheet" href="src/css/style.css" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Partidas Rankeadas - Gabriel Demetrios Lafis</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <img src="src/img/hero-image.png" alt="Hero Image" class="hero-image">
-  <div class="container">
-    <h1>Calculadora de Partidas Rankeadas</h1>
-    <form id="formRanked">
-      <label for="vitorias">Vitórias:</label>
-      <input type="number" id="vitorias" required />
-
-      <label for="derrotas">Derrotas:</label>
-      <input type="number" id="derrotas" required />
-
-      <button type="submit">Calcular Nível</button>
-    </form>
-    <div id="resultado"></div>
-  </div>
-  <script src="src/js/script.js"></script>
+    <header>
+        <h1>Calculadora de Partidas Rankeadas</h1>
+        <p>Um projeto de Gabriel Demetrios Lafis</p>
+    </header>
+    <main>
+        <section class="hero">
+            <img src="hero_image.png" alt="Imagem ilustrativa da calculadora de partidas rankeadas">
+            <h2>Bem-vindo à Calculadora de Partidas Rankeadas!</h2>
+            <p>Esta ferramenta simples e eficaz foi desenvolvida para ajudar jogadores a calcular seu saldo de vitórias e determinar seu nível (Ferro, Bronze, Prata, Ouro, Diamante, Lendário, Imortal).</p>
+            <a href="src/index.html" class="button">Acessar a Calculadora</a>
+        </section>
+        <section class="features">
+            <h3>Funcionalidades Principais:</h3>
+            <ul>
+                <li>Cálculo de Saldo de Vitórias</li>
+                <li>Determinação de Nível (Rank)</li>
+                <li>Interface Intuitiva</li>
+                <li>Desenvolvido com JavaScript, HTML e CSS</li>
+            </ul>
+        </section>
+        <section class="documentation">
+            <h3>Documentação e Código Fonte:</h3>
+            <p>Explore o código fonte e a documentação completa deste projeto no GitHub.</p>
+            <a href="https://github.com/galafis/Calculadora-de-Partidas-Rankeadas" class="button">Ver no GitHub</a>
+            <a href="https://github.com/galafis/Calculadora-de-Partidas-Rankeadas/blob/main/README.md" class="button">Ler README.md</a>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Gabriel Demetrios Lafis. Todos os direitos reservados.</p>
+    </footer>
+    <script src="script.js"></script>
 </body>
 </html>
