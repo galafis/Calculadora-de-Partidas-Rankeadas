@@ -1,0 +1,168 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+header p {
+    margin: 0.5rem 0 0;
+    font-size: 1.1rem;
+    color: #bbb;
+}
+
+main {
+    flex: 1;
+    padding: 20px;
+    max-width: 1200px;
+    margin: 20px auto;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.hero {
+    text-align: center;
+    padding: 40px 20px;
+    background-color: #e9ecef;
+    border-radius: 8px;
+    margin-bottom: 30px;
+}
+
+.hero img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.hero h2 {
+    color: #007bff;
+    font-size: 2rem;
+    margin-bottom: 15px;
+}
+
+.hero p {
+    font-size: 1.1rem;
+    margin-bottom: 25px;
+    color: #555;
+}
+
+.button {
+    display: inline-block;
+    background-color: #007bff;
+    color: #fff;
+    padding: 12px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    margin: 5px;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}
+
+.features, .documentation {
+    margin-bottom: 30px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fdfdfd;
+}
+
+.features h3, .documentation h3 {
+    color: #28a745;
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #28a745;
+    padding-bottom: 10px;
+}
+
+.features ul {
+    list-style: none;
+    padding: 0;
+}
+
+.features li {
+    background: #e2f0d9;
+    margin-bottom: 10px;
+    padding: 10px 15px;
+    border-left: 5px solid #28a745;
+    border-radius: 4px;
+}
+
+.documentation p {
+    margin-bottom: 20px;
+}
+
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1.5rem 0;
+    margin-top: auto;
+    box-shadow: 0 -2px 5px rgba(0,0,0,0.2);
+}
+
+footer p {
+    margin: 0;
+    font-size: 0.9rem;
+    color: #bbb;
+}
+
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2rem;
+    }
+
+    .hero h2 {
+        font-size: 1.5rem;
+    }
+
+    .button {
+        padding: 10px 20px;
+        font-size: 0.9rem;
+    }
+
+    main {
+        margin: 10px;
+        padding: 15px;
+    }
+}
+
+@media (max-width: 480px) {
+    header h1 {
+        font-size: 1.8rem;
+    }
+
+    .hero h2 {
+        font-size: 1.3rem;
+    }
+
+    .button {
+        display: block;
+        margin: 10px auto;
+        width: 80%;
+    }
+}
