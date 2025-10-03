@@ -4,10 +4,7 @@ _**Read this in other languages:**_ [_**Português**_](README.md), [_**English**
 
 ![Imagem Hero do Projeto](hero_image.png)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/galafis/Calculadora-de-Partidas-Rankeadas?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/galafis/Calculadora-de-Partidas-Rankeadas?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/galafis/Calculadora-de-Partidas-Rankeadas?style=for-the-badge)
-![Top Language](https://img.shields.io/github/languages/top/galafis/Calculadora-de-Partidas-Rankeadas?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/galafis/Calculadora-de-Partidas-Rankeadas?style=for-the-badge) ![GitHub repo size](https://img.shields.io/github/repo-size/galafis/Calculadora-de-Partidas-Rankeadas?style=for-the-badge) ![GitHub language count](https://img.shields.io/github/languages/count/galafis/Calculadora-de-Partidas-Rankeadas?style=for-the-badge) ![Top Language](https://img.shields.io/github/languages/top/galafis/Calculadora-de-Partidas-Rankeadas?style=for-the-badge)
 
 ## 🇧🇷 Português
 
@@ -41,8 +38,6 @@ A tabela abaixo detalha os níveis de rank baseados no número de vitórias:
 | 91 a 100      | Lendário    |
 | Mais de 100   | Imortal     |
 
-
-
 ## Autor
 
 Este projeto foi desenvolvido por Gabriel Demetrios Lafis.
@@ -50,8 +45,6 @@ Este projeto foi desenvolvido por Gabriel Demetrios Lafis.
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-
 
 ### Instalação
 

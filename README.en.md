@@ -4,10 +4,7 @@ _**Read this in other languages:**_ [_**Português**_](README.md), [_**English**
 
 ![Project Hero Image](hero_image.png)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/galafis/Calculadora-de-Partidas-Rankeadas?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/galafis/Calculadora-de-Partidas-Rankeadas?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/galafis/Calculadora-de-Partidas-Rankeadas?style=for-the-badge)
-![Top Language](https://img.shields.io/github/languages/top/galafis/Calculadora-de-Partidas-Rankeadas?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/galafis/Calculadora-de-Partidas-Rankeadas?style=for-the-badge) ![GitHub repo size](https://img.shields.io/github/repo-size/galafis/Calculadora-de-Partidas-Rankeadas?style=for-the-badge) ![GitHub language count](https://img.shields.io/github/languages/count/galafis/Calculadora-de-Partidas-Rankeadas?style=for-the-badge) ![Top Language](https://img.shields.io/github/languages/top/galafis/Calculadora-de-Partidas-Rankeadas?style=for-the-badge)
 
 ## 🇬🇧 English
 
